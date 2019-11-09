@@ -1,0 +1,8 @@
+apt install rlwrap gcc-multilib g++-multilib tmux terminator mingw-64 
+
+rlwrap: Allows up arrow and backspace on netcat shell
+gcc-multilib: For compiling -m32 c code
+g++-multilib: for compiling 32-bit c++ code
+tmux: terminal emulator like screen but better
+terminator: terminal that allows to split screens etc..
+mingw-64: compile code for windows
